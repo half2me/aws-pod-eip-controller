@@ -1,4 +1,4 @@
-image: ""
+image: docker.io/halftome/aws-pod-eip-controller
 serviceAccountName: ""
 logLevel: DEBUG
 clusterName: ""

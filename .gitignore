@@ -2,3 +2,6 @@
 tmp.txt
 config.tmp.yaml
 /aws-pod-eip-controller
+
+# helm values
+helm-values.yaml
